@@ -1,4 +1,4 @@
-# Grafkom-Balali
+# Grafkom-Balap Lari Liar (Balali)
 
 ### Storyline :
 Jumadin merupakan warga Indonesia yang suka melakukan balap lari liar. Selain menyukai hal itu dia juga mempunyai bakat dalam dunia balap lari liar. Karena ia suka dan berbakat dalam balap lari liar, Jumadin memiliki cita cita untuk menjadi seorang balap lari liar Indonesia yang proferisonal. Namun untuk mencapai cita cita tersebut cukup sulit karena banyak rintangan yang harus ia lalui dengan keanekaragaman pesona Indonesia (emak emak naik motor, bajaj, manusia silver) Mampukah Jumadin menjadi pembalap lari profesional dengan melalui rintangan dari setiap pulau di Indonesia?
@@ -16,3 +16,6 @@ Jumadin merupakan warga Indonesia yang suka melakukan balap lari liar. Selain me
 | Muhammad Khadafi | G64180039 | Game Artist |
 | Arrazzaq Adrian | G64180109 | Programer |
 | Yudha Berliandi | G64180110 | Game Design  |
+
+### Gambar Game Balap Lari Liar:
+![grafkom-01](https://user-images.githubusercontent.com/60167974/103504801-12eee980-4e8b-11eb-8a37-e71685510379.png)
