@@ -37,4 +37,19 @@ Jumadin merupakan warga Indonesia yang suka melakukan balap lari liar. Selain me
 
 ### Screenshot Gambar Game Balap Lari Liar:
 #### Tampilan Menu :
+<img src="https://user-images.githubusercontent.com/60167974/104125754-6ed5d880-538b-11eb-87c6-e8f35a9fac37.png" width="750">
 
+#### Tampilan Exit :
+<img src="https://user-images.githubusercontent.com/60167974/104126041-f1ab6300-538c-11eb-9471-3094dd296ad7.png" width="750">
+
+#### Tampilan Gameplay :
+<img src="https://user-images.githubusercontent.com/60167974/104125998-ba3cb680-538c-11eb-90f0-b64c5e9b4b3d.png" width="750">
+
+#### Tampilan Gagal :
+<img src="https://user-images.githubusercontent.com/60167974/104126091-4cdd5580-538d-11eb-9be0-240be58884dc.png" width="750">
+
+#### Jumadin dan Obstacle :
+<img src="https://user-images.githubusercontent.com/60167974/104126109-65e60680-538d-11eb-98a1-0616afdeb5a1.png" width="750">
+
+#### Background :
+<img src="https://user-images.githubusercontent.com/60167974/104126154-8dd56a00-538d-11eb-970e-d501690fe569.png" width="750">
